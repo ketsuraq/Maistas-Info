@@ -1,6 +1,9 @@
 h1, h4 {
     font-family: 'Gabarito', sans-serif;
 }
+h5 {
+    font-family: sans-serif;
+}
 h1 {
     color: #000;
     font-size: 40px;
